@@ -16,4 +16,5 @@ Grid Layout
 Медиазапросы
 ```
 
-## Ссылка для просмотра проекта появится чуть позже
+## Ссылка для просмотра проекта
+https://cyanide1234.github.io/russian-travel/index.html
