@@ -3,12 +3,18 @@
     margin: 0 auto;
     max-width: 1184px;
     justify-content: space-between;
-    padding: 98px 48px 24px;
+    padding-bottom: 24px;
+}
+
+@media screen and (max-width: 1200px) {
+    .footer {
+        padding: 0 48px 24px;
+    }
 }
 
 @media screen and (max-width: 770px) {
     .footer {
-        padding: 88px 24px 24px;
+        padding: 0 24px 24px;
     }
 }
 
