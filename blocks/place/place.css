@@ -41,7 +41,7 @@
         grid-template-rows: min-content 46px minmax(min-content, max-content) minmax(min-content, max-content);
         grid-template-columns: 320px;
         font-size: 32px;
-        row-gap: 32p
+        row-gap: 32px;
     }
 }
 
