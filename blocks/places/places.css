@@ -33,6 +33,6 @@
     .places {
         margin: 0;
         padding-bottom: 66px;
-        row-gap: 0;
+        row-gap: 50px;
     }
 }

@@ -10,3 +10,9 @@
         margin-top: 64px;
     }
 }
+
+@media screen and (max-width: 420px) {
+    .footer__copyright {
+        margin-top: 15px;
+    }
+}
